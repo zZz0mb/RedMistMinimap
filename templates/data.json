@@ -1,0 +1,352 @@
+{
+  "Espada": {
+    "name": "Espada.png",
+    "x": 1125,
+    "y": 3935,
+    "width": 268,
+    "height": 87
+   },
+  "ODNLogo": {
+    "name": "ODNLogo.png",
+    "x": 1978,
+    "y": 3912,
+    "width": 117,
+    "height": 113
+   },
+  "OraculoLogo": {
+    "name": "OraculoLogo.png",
+    "x": 1869,
+    "y": 3912,
+    "width": 100,
+    "height": 92
+  },
+  "bandeiroide": {
+    "name": "bandeiroide.png",
+    "x": 1587,
+    "y": 3766,
+    "width": 141,
+    "height": 83
+  },
+  "Viking": {
+    "name": "Viking.png",
+    "x": 1054,
+    "y": 3693,
+    "width": 135,
+    "height": 153
+  },
+  "cu": {
+    "name": "cu.png",
+    "x": 1751,
+    "y": 1220,
+    "width": 177,
+    "height": 173
+  },
+  "Flag": {
+    "name": "Flag.png",
+    "x": 2034,
+    "y": 1489,
+    "width": 303,
+    "height": 214
+  },
+  "oi": {
+    "name": "oi.png",
+    "x": 1674,
+    "y": 1522,
+    "width": 106,
+    "height": 121
+  },
+  "Yellow": {
+    "name": "Yellow.png",
+    "x": 2161,
+    "y": -3857,
+    "width": 334,
+    "height": 225
+   },
+  "centro": {
+    "name": "centro.png",
+    "x": 1232,
+    "y": 1814,
+    "width": 568,
+    "height": 318
+  },
+  "cityorange": {
+    "name": "cityorange.png",
+    "x": 1643,
+    "y": 83,
+    "width": 37,
+    "height": 38
+  },
+    "orm": {
+	"name": "orm.png",
+	"x": 1876,
+	"y": -213,
+	"width": 189,
+	"height": 168
+  },
+    "fanta": {
+	"name": "fanta.png",
+	"x": 1509,
+	"y": 59,
+	"width": 33,
+	"height": 25
+  },
+    "discorange": {
+	"name": "discorange.png",
+	"x": 1402,
+	"y": 41,
+	"width": 113,
+	"height": 19
+  },
+    "cutes": {
+	"name": "cutes.png",
+	"x": 2570,
+	"y": -2801,
+	"width": 312,
+	"height": 233
+  },
+    "olflu": {
+	"name": "olflu.png",
+	"x": 1871,
+	"y": 46,
+	"width": 200,
+	"height": 200
+  },
+    "espantalho": {
+	"name": "espantalho.png",
+	"x": 1357,
+	"y": 62,
+	"width": 45,
+	"height": 33
+},
+    "mt": {
+	"name": "mt.png",
+	"x": 1819,
+	"y": 3773,
+	"width": 209,
+	"height": 44
+},
+    "allies": {
+        "name": "allies.png",
+        "x": 1576,
+        "y": 1340,
+        "width": 109,
+        "height": 66
+ },
+    "mc": {
+        "name": "mc.png",
+        "x": 882,
+        "y": 1391,
+        "width": 289,
+        "height": 253
+ },
+    "ave": {
+        "name": "ave.png",
+        "x": 2240,
+        "y": 1707,
+        "width": 118,
+        "height": 145
+},
+  "flupx": {
+    "name": "flupx.png",
+    "x": 1117,
+    "y": 315,
+    "width": 322,
+    "height": 228
+},
+  "rss": {
+    "name": "rss.png",
+    "x": 164,
+    "y": 778,
+    "width": 169,
+    "height": 105
+ },
+  "rs": {
+    "name": "rs.png",
+    "x": 235,
+    "y": 873,
+    "width": 128,
+    "height": 77
+ },
+  "kkkk": {
+    "name": "kkkk.png",
+    "x": 1884,
+    "y": 429,
+    "width": 58,
+    "height": 66
+},
+  "tp": {
+    "name": "tp.png",
+    "x": 822,
+    "y": 3650,
+    "width": 169,
+    "height": 88
+},
+  "mtk": {
+    "name": "mtk.png",
+    "x": 1393,
+    "y": -149,
+    "width": 116,
+    "height": 71
+},
+  "am": {
+    "name": "am.png",
+    "x": 2984,
+    "y": 1651,
+    "width": 147,
+    "height": 46
+},
+  "r": {
+    "name": "r.png",
+    "x": 167,
+    "y": 902,
+    "width": 49,
+    "height": 26
+},
+  "ch": {
+    "name": "ch.png",
+    "x": 169,
+    "y": 955,
+    "width": 56,
+    "height": 58
+},
+  "BrVd": {
+    "name": "BrVd.png",
+    "x": 220,
+    "y": 2540,
+    "width": 708,
+    "height": 421
+},
+  "ha1": {
+    "name": "ha1.png",
+    "x": 1695,
+    "y": -20,
+    "width": 75,
+    "height": 80
+},
+  "ter": {
+    "name": "ter.png",
+    "x": 1370,
+    "y": 100,
+    "width": 17,
+    "height": 23
+},
+  "olm": {
+    "name": "olm.png",
+    "x": 2785,
+    "y": 159,
+    "width": 48,
+    "height": 37
+},
+  "cp": {
+    "name": "cp.png",
+    "x": 2533,
+    "y": -3740,
+    "width": 111,
+    "height": 49
+},
+  "rsss": {
+    "name": "rsss.png",
+    "x": 455,
+    "y": 701,
+    "width": 202,
+    "height": 239
+},
+  "ag": {
+    "name": "ag.png",
+    "x": 2175,
+    "y": -3630,
+    "width": 260,
+    "height": 176
+},
+  "LG": {
+    "name": "LG.png",
+    "x": 3430,
+    "y": -3916,
+    "width": 351,
+    "height": 219
+},
+"br": {
+ "name": "br.png",
+ "x": 2153,
+ "y": 3105,
+ "width": 1943,
+ "height": 991
+},
+"madruga": {
+ "name": "madruga.png",
+ "x": 2262,
+ "y": 3066,
+ "width": 59,
+ "height": 39
+},
+ "estados": {
+ "name": "estados.png",
+ "x": 2132,
+ "y": 2979,
+ "width": 400,
+ "height": 83
+},
+ "cima": {
+ "name": "cima.png",
+ "x": 2468,
+ "y": 3016,
+ "width": 154,
+ "height": 89
+},
+ "countryball": {
+ "name": "countryball.png",
+ "x": 2171,
+ "y": 2687,
+ "width": 263,
+ "height": 252
+},
+ "kuruminha": {
+ "name": "kuruminha.png",
+ "x": 2434,
+ "y": 2733,
+ "width": 144,
+ "height": 206
+},
+ "discord": {
+ "name": "discord.png",
+ "x": 2702,
+ "y": 3010,
+ "width": 846,
+ "height": 95
+},
+ "huedentor": {
+ "name": "huedentor.png",
+ "x": 3407,
+ "y": 2710,
+ "width": 379,
+ "height": 395
+},
+ "brasao": {
+ "name": "brasao.png",
+ "x": 3702,
+ "y": 2935,
+ "width": 186,
+ "height": 166
+},
+ "cbfcanarinho": {
+ "name": "cbfcanarinho.png",
+ "x": 3884,
+ "y": 2886,
+ "width": 208,
+ "height": 215
+},
+ "obs": {
+ "name": "obs.png",
+ "x": 1848,
+ "y": 3048,
+ "width": 301,
+ "height": 557
+},
+ "planta": {
+ "name": "planta.png",
+ "x": 3118,
+ "y": 2636,
+ "width": 57,
+ "height": 105
+}
+}
