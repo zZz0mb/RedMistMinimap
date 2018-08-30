@@ -372,7 +372,7 @@ function drawCursor() {
 
     ctx_minimap_cursor.beginPath();
     ctx_minimap_cursor.lineWidth = zoomlevel / 3;
-    ctx_minimap_cursor.strokeStyle = "blue";
+    ctx_minimap_cursor.strokeStyle = "red";
     ctx_minimap_cursor.rect(zoomlevel * xoff_c, zoomlevel * yoff_c, zoomlevel, zoomlevel);
     ctx_minimap_cursor.stroke();
 
